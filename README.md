@@ -1,4 +1,6 @@
-# Tauri + React + Typescript
+# what launcher looks like 
+<img width="1289" height="722" alt="image" src="https://github.com/user-attachments/assets/6d05070c-07fe-4cb5-8a85-3fb22c24fffd" />
+
 
 This is an old Fortnite launcher (version 12.41) originally made by Cynx. I’m sharing it publicly because he has been repeatedly reselling the exact same launcher to different people, essentially recycling the same product and charging over and over again.
 
