@@ -1,4 +1,7 @@
-# Cynx-Launcher
-This is an launcher that im now publishing from a scammer.
-he has been trying to expose me for scamming ( he has no proof ) and decided to leak my old ultimate launcher which i already published. so here you go this free launcher 
-#  ( USE AT YOUR OWN RISK MIGHT CONTAIN A VIRUS )
+# Tauri + React + Typescript
+
+This template should help get you started developing with Tauri, React and Typescript in Vite.
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
