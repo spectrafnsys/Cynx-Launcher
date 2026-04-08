@@ -10,8 +10,5 @@ Just to be clear: this is being posted to expose that he’s taking advantage of
 
 # Expose 
 <img width="318" height="101" alt="image" src="https://github.com/user-attachments/assets/442d086b-01fb-4492-b924-c4a4c09a392e" />
-
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+# Keeps getting hacked
+<img width="673" height="440" alt="image" src="https://github.com/user-attachments/assets/29735731-0b76-4ca9-9710-89ce1a7e10c2" />
