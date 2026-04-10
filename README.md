@@ -13,7 +13,9 @@ Just to be clear: this is being posted to expose that he’s taking advantage of
 # Keeps getting hacked
 <img width="673" height="440" alt="image" src="https://github.com/user-attachments/assets/29735731-0b76-4ca9-9710-89ce1a7e10c2" />
 # Sending viruses to other people
+
 ( getting hacked at the same time ) he has never been hacked until he met cynx
+
 <img width="711" height="520" alt="Screenshot 2026-04-10 202037" src="https://github.com/user-attachments/assets/e129263e-a19f-4f22-8693-c142e8e3c56e" />
 <img width="726" height="515" alt="Screenshot 2026-04-10 202041" src="https://github.com/user-attachments/assets/a06caac1-fcae-4079-90b6-a3983b75dcbd" />
 
