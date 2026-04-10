@@ -12,6 +12,7 @@ Just to be clear: this is being posted to expose that he’s taking advantage of
 <img width="318" height="101" alt="image" src="https://github.com/user-attachments/assets/442d086b-01fb-4492-b924-c4a4c09a392e" />
 # Keeps getting hacked
 <img width="673" height="440" alt="image" src="https://github.com/user-attachments/assets/29735731-0b76-4ca9-9710-89ce1a7e10c2" />
+
 # Sending viruses to other people
 
 ( getting hacked at the same time ) he has never been hacked until he met cynx
