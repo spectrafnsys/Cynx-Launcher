@@ -20,3 +20,9 @@ Just to be clear: this is being posted to expose that he’s taking advantage of
 <img width="711" height="520" alt="Screenshot 2026-04-10 202037" src="https://github.com/user-attachments/assets/e129263e-a19f-4f22-8693-c142e8e3c56e" />
 <img width="726" height="515" alt="Screenshot 2026-04-10 202041" src="https://github.com/user-attachments/assets/a06caac1-fcae-4079-90b6-a3983b75dcbd" />
 
+More of him and his buddy getting hacked at the same time again
+
+<img width="493" height="314" alt="image" src="https://github.com/user-attachments/assets/b19571dc-6321-45e8-adcb-b4ce266ac33f" />
+
+
+<img width="540" height="326" alt="image" src="https://github.com/user-attachments/assets/e630da9e-dd08-4791-8447-966de6b25361" />
