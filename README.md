@@ -1,3 +1,6 @@
+# BACKEND FOR HIS LAUNCHER
+https://github.com/spectrafnsys/Cynx-backend-for-launcher
+
 # what launcher looks like 
 <img width="1289" height="722" alt="image" src="https://github.com/user-attachments/assets/6d05070c-07fe-4cb5-8a85-3fb22c24fffd" />
 
